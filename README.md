@@ -20,7 +20,35 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+# Lesson 01
+
+## Mastering ZOD from validation in NextJS
+
+![1](https://github.com/user-attachments/assets/1e947630-ffbd-4f2c-8dfd-ca5388d4499c)
+
+![2](https://github.com/user-attachments/assets/b5c3fa25-07a2-4fdd-b1ff-f3a9ddeb8d74)
+
+![3](https://github.com/user-attachments/assets/ca64cefe-5a72-41e5-acba-547048bc391a)
+
+![4](https://github.com/user-attachments/assets/328dc767-8210-4571-95be-4d3ab64c7aea)
+
+![5](https://github.com/user-attachments/assets/fa8fa3b0-d4e7-4717-ab09-ce512526838b)
+
+![6](https://github.com/user-attachments/assets/59e0775d-da5b-42b1-b947-524cbcbdae50)
+
+# Lesson 02
+
+## How to connect the database in NextJS
+
+
+
+
+# Lesson 03
+
+## Setup Resend email with NextJS
+
+
+
 
 To learn more about Next.js, take a look at the following resources:
 
